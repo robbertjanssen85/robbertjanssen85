@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robbertjanssen85
 - 👀 I’m interested in ... IT for road transportation and logistics
-- 🌱 I’m currently learning ... JavaScript (and CSS/HTML), websockets/webhooks/rest API's, pub-sub/request-respons,  
+- 🌱 I’m currently learning ... JavaScript (and CSS/HTML), websockets/webhooks/rest API's, pub-sub/request-respond,  
 - 💞️ I’m looking to collaborate ... on data services development for transport and logistics
 - 📫 How to reach me ... send me a message directly!
 
